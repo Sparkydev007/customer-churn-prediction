@@ -1,9 +1,9 @@
 ---
 ## Customer Churn Prediction.
 ---
-🌐 Live Demo
+## 🌐 Live Demo
 
-👉 Streamlit App: https://customer-churn-prediction17.streamlit.app/
+👉 Streamlit App: https://customer-churn-prediction17.streamlit.app
 ---
 
 
