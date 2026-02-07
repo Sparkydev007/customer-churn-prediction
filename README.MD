@@ -61,7 +61,8 @@ A sleek, production‑ready **Customer Churn Prediction** web app built with **X
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https:git remote add origin https://github.com/Sparkydev007/customer-churn-prediction.git
+
 cd customer-churn-prediction
 ```
 
