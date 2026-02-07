@@ -49,9 +49,13 @@ A sleek, production‑ready **Customer Churn Prediction** web app built with **X
 ### Example
 
 ```md
-(screenshots/home.png)
-(screenshots/prediction.png)
-```
+## Screenshots
+
+![Home Page](screenshots/home.png)
+![Login Page](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Prediction Result](screenshots/result.png)
+
 
 ---
 
