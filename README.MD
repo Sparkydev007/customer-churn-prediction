@@ -1,5 +1,5 @@
 ---
-##🔥Customer Churn Prediction
+## Customer Churn Prediction.
 
 
 
@@ -105,7 +105,7 @@ CUSTOMER-CHURN/
 
 ---
 
-## 🎯 Business & Placement Use Cases
+## 🎯 Business Use Cases
 
 * 📈 Customer retention strategy
 * 💡 Business decision support
@@ -114,14 +114,7 @@ CUSTOMER-CHURN/
 
 ---
 
-## 🌐 Live Demo (Deployed on Streamlit Cloud)
 
-1. Push this repo to GitHub
-2. Go to **streamlit.io → Deploy app**
-3. Select `churn_app.py`
-4. Done. Your app is live 🚀
-
----
 
 ## 🧠 Future Improvements
 
