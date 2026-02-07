@@ -16,9 +16,8 @@ A sleek, production‑ready **Customer Churn Prediction** web app built with **X
 * ⚡ **Real‑time predictions** with confidence & risk level
 * 🧠 **XGBoost Classifier** trained on 7,000+ customers
 * ⚖️ **SMOTE‑balanced data** for fair learning
-* 🎛️ **Interactive UI** (no boring forms)
+* 🎛️ **Interactive UI** 
 * 📊 **Visual probability charts** (Plotly)
-* 💼 **Portfolio‑ready** (clean code + clean UX)
 
 ---
 
