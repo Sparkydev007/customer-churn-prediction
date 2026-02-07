@@ -34,30 +34,14 @@ A sleek, production‑ready **Customer Churn Prediction** web app built with **X
 
 ---
 
-## 🖼️ App Screenshots 
 
-
-
-```
-/screenshots
- ├─ home.png
- ├─ form.png
- ├─ prediction.png
- └─ probabilities.png
-```
-
-### Example
-
-```md
-## Screenshots
+## 🖼️ App Screenshots
 
 ![Home Page](screenshots/home.png)
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Prediction Result](screenshots/result.png)
+![Form Page](screenshots/form.png)
+![Prediction Output](screenshots/prediction.png)
+![Probability Analysis](screenshots/probabilities.png)
 
-
----
 
 ## 🛠️ Tech Stack 
 
