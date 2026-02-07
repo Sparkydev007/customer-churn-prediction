@@ -1,4 +1,4 @@
-# 🔥 Customer Churn Prediction — Production‑Grade ML App
+
 
 > **Built to impress recruiters. Designed to work in production.**
 
