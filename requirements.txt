@@ -1,10 +1,10 @@
-numpy 
+streamlit
+numpy
 pandas
 matplotlib
-sea
+seaborn
 scikit-learn
 imbalanced-learn
 xgboost
-stremlit
-plotly
 joblib
+plotly
