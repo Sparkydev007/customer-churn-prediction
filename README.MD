@@ -1,6 +1,10 @@
 ---
 ## Customer Churn Prediction.
+---
+🌐 Live Demo
 
+👉 Streamlit App: https://customer-churn-prediction17.streamlit.app/
+---
 
 
 A sleek, production‑ready **Customer Churn Prediction** web app built with **XGBoost + Streamlit**. Designed to be fast, intuitive, and recruiter‑friendly — perfect for demos, portfolios, and real‑world use.
