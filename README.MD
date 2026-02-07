@@ -1,6 +1,6 @@
 
 
-> **Built to impress recruiters. Designed to work in production.**
+
 
 A sleek, production‑ready **Customer Churn Prediction** web app built with **XGBoost + Streamlit**. Designed to be fast, intuitive, and recruiter‑friendly — perfect for demos, portfolios, and real‑world use.
 
@@ -49,8 +49,8 @@ A sleek, production‑ready **Customer Churn Prediction** web app built with **X
 ### Example
 
 ```md
-![Home](screenshots/home.png)
-![Prediction](screenshots/prediction.png)
+(screenshots/home.png)
+(screenshots/prediction.png)
 ```
 
 ---
